@@ -6,10 +6,10 @@
 
 ## 소개
 ![프로필이미지](https://github.com/JSpiner/RESUME/raw/master/images/profile.jpeg)
-- 이름: 정성민
-- 군필여부: 병역특례로 복무완료
-- 취미: 자전거, **해커톤**, 칵테일, 사격, 등산, **카페코딩**, 피아노, 달리기, 여행, 캠핑
-- Email: jspiner@naver.com
+- 이름: 김철진
+- 군필여부: 육군 병장으로 전역 완료
+- 취미: 독서, **해커톤**, 요리, 등산, **카페코딩**, 여행
+- Email: chuljinrous@naver.com
 - GitHub: [github.com/jspiner](https://github.com/jspiner)
 - LinkedIn: [linkedin.com/in/jspiner](https://linkedin.com/in/jspiner)
 
