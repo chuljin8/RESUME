@@ -86,6 +86,9 @@
 
 [todo list 링크](https://trello.com/invite/b/gtIeUih7/2303423d7fea8cc7fdbf5baf221ef949/학습-및-발전)
 ![](https://github.com/chuljin8/RESUME/raw/master/images/todo.png)
+- 각종 자격증 공부(전기기사,정보처리기사,한국사)
+- opic 및 영어 공부
+- 학부 공부 
 
 ---
 
