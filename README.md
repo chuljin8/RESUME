@@ -49,6 +49,7 @@
 
 ## 해야할일
 <img src="https://w.namu.la/s/d110dd2db4b2b36312f4134705280f8aa91730878abbcad16e396e669f68d78fd068ef4cfbd1741e512289f065bdfc28a1b71f9310222f480cda45f4eddf96a8aed777ad27b50700bd265b27a85a3d695b92d35d894b06a7c3bb0246d9c15a52">
+
 ### OPic 
 - 공기업을 준비하더라도 사기업을 생각하여야 하며 앞으로 나에게 꼭 필요하게될 중요한 시험
 - 언어 말하기 시험으로 다양한 난이도 
