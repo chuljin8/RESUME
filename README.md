@@ -16,6 +16,7 @@
 현재 다양한 자격증, 경험을 취득하기 위해 노력하고 있으며 학부생을 하며 다양한 팀프로젝트와 설계를 진행하며
 팀원들간의 의사소통과 협력을 경험하고 있습니다. 팀 프로젝트에서 피드백을 통해 서로의 부족한 점을 보완하고
 협력하며 프로젝트를 진행하였습니다.
+
 ---
 ## 회사경력 (상상)
 - [한국전력공사](https://dtd31o1ybbmk8.cloudfront.net/photos/5705a61ac07924c280b54c14cffbbb26/thumb.jpg)(2023 ~ ) 
@@ -45,6 +46,12 @@
 - 전력공학
 -  회로이론 및 제어공학
 
+## 해야할일
+<img src="https://w.namu.la/s/d110dd2db4b2b36312f4134705280f8aa91730878abbcad16e396e669f68d78fd068ef4cfbd1741e512289f065bdfc28a1b71f9310222f480cda45f4eddf96a8aed777ad27b50700bd265b27a85a3d695b92d35d894b06a7c3bb0246d9c15a52">
+### OPic 
+- 공기업을 준비하더라도 사기업을 생각하여야 하며 앞으로 나에게 꼭 필요하게될 중요한 시험
+- 언어 말하기 시험으로 다양한 난이도 
+- 나에게 필요한 난이도 iM 을 목표로 준비
 
 ## 프로젝트 이력
 
@@ -76,6 +83,9 @@
 
 ---
 
-----
+[todo list 링크](https://trello.com/invite/b/gtIeUih7/2303423d7fea8cc7fdbf5baf221ef949/학습-및-발전)
+![](https://github.com/JSpiner/RESUME/raw/master/images/todo.jpeg)
+
+---
 
 여기까지 읽어주셔서 감사합니다. <br/>
