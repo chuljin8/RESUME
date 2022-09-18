@@ -1,8 +1,4 @@
 # 이력서
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-![contributor](https://img.shields.io/github/contributors/JSpiner/RESUME.svg)
-![GitHub last commit](https://img.shields.io/github/last-commit/JSpiner/RESUME.svg)
-![status](https://img.shields.io/badge/offer_welcome-brightgreen.svg)
 
 ## 소개
 ![프로필이미지](https://github.com/JSpiner/RESUME/raw/master/images/profile.jpeg)
@@ -20,7 +16,7 @@
 현재 다양한 자격증, 경험을 취득하기 위해 노력하고 있으며 학부생을 하며 다양한 팀프로젝트와 설계를 진행하며
 팀원들간의 의사소통과 협력을 경험하고 있습니다. 팀 프로젝트에서 피드백을 통해 서로의 부족한 점을 보완하고
 협력하며 프로젝트를 진행하였습니다.
-
+---
 ## 회사경력 (상상)
 - [한국전력공사](https://dtd31o1ybbmk8.cloudfront.net/photos/5705a61ac07924c280b54c14cffbbb26/thumb.jpg)(2023 ~ ) 
 - 학부생(2018 ~ 2023)
@@ -59,7 +55,7 @@
 - 소개: 배터리의 남은 잔량을 알 수있는 회로 제작 설계 프로젝트
 - 팀 프로젝트로 진행
 - 기간 : 2021.03 ~ 2021.06
-
+- 첫 팀프로젝트로 어려움도 있었지만 조원의 도움과 피드백을 통해 완성
 <img src="http://openimage.interpark.com/goods_image_big/3/0/4/8/8154733048_l.jpg">
 
 ### 건전지 충전 회로 설계
@@ -74,6 +70,8 @@
 - 소개: 프리앰프를 이용하여  설계
 - 기간: 2022.03 ~ 2022.06
 - 팀 프로젝트로 진행
+- 납땜의 양이 많아 최종적으로 보완할 점이 많이 생김, 트러블 슈팅으로 문제점 파악과
+향후 개선방안 
 
 
 ---
