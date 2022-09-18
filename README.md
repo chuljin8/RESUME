@@ -85,7 +85,7 @@
 ---
 
 [todo list 링크](https://trello.com/invite/b/gtIeUih7/2303423d7fea8cc7fdbf5baf221ef949/학습-및-발전)
-![](https://github.com/chuljin8/RESUME/raw/master/images/제목 없음.png)
+![](https://github.com/chuljin8/RESUME/raw/master/images/todo.png)
 
 ---
 
