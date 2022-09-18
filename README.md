@@ -1,7 +1,7 @@
 # 이력서
 
 ## 소개
-![프로필이미지](https://github.com/JSpiner/RESUME/raw/master/images/profile.jpeg)
+![프로필이미지](https://github.com/JSpiner/RESUME/raw/master/images/profile.png)
 - 이름: 김철진
 - 군필여부: 육군 병장으로 전역 완료
 - 취미: 독서, 요리, 등산, 여행
@@ -84,7 +84,7 @@
 ---
 
 [todo list 링크](https://trello.com/invite/b/gtIeUih7/2303423d7fea8cc7fdbf5baf221ef949/학습-및-발전)
-![](https://github.com/JSpiner/RESUME/raw/master/images/todo.jpeg)
+![](https://github.com/JSpiner/RESUME/raw/master/images/제목없음.png)
 
 ---
 
