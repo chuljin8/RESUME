@@ -10,11 +10,10 @@
 - 군필여부: 육군 병장으로 전역 완료
 - 취미: 독서, **해커톤**, 요리, 등산, **카페코딩**, 여행
 - Email: chuljinrous@naver.com
-- GitHub: [github.com/jspiner](https://github.com/jspiner)
-- LinkedIn: [linkedin.com/in/jspiner](https://linkedin.com/in/jspiner)
+- GitHub: [github.com/chuljin8](https://github.com/chuljin8)
 
 ```
-엔지니어로 살아가면서, 올바름을 추구하는걸 가장 큰 가치로 여기고 있습니다.
+항상 생각하기,공학적 상상 추구
 ```
 
 ![깃허브](https://github.com/JSpiner/RESUME/raw/master/images/github.png)
@@ -31,76 +30,58 @@
 - [피알앤디컴퍼니](http://prnd.co.kr)(2017 ~ 2018) 
 - 프리랜서(2014 ~ 2016)
 
-## 단체경력
-- 네이버 부스트캠프 코드 리뷰어(2021)
-- Mashup 개발동아리(2017 ~ 2018)
-- 소프트웨어 마에스트로 7기(2016 ~ 2017)
-- 차세대보안리더 BoB 4기(2015)
-- 삼성소프트웨어멤버십 주니어 1기(2014)
-
 ## 학력
-- 세종대학교 컴퓨터공학과 3학년 휴학(2015 입학)
-- 한국디지털미디어고등학교 해킹방어과 졸업(2012 ~ 2014)
+- 광운대학교 3학년 재학중, 내년 졸업 예정 (2018~2022)
+- 명덕고등학교 졸업
 
-## 사용 기술
-### Android
-요구사항 구현을 넘어 프로젝트 개선 및 기술적인 도전을 해볼 수 있을 정도의 안드로이드 스킬을 가지고 있습니다.
-- Kotlin, Kotlin DSL
-- DI : Dagger / Koin
-- Stream : rxJava / coroutine
-- View : Compose, Epoxy, Databinding
-- Architecture : MVI, MVVM, MVP
-- lint + test code
+## 취득 자격증 ( 예정)
+### Engineer Electricity (전기 기사)
+배움을 토대로 자격증 취득 예정
+- 회로이론
+- 전자기학
+- 제어공학(수강중)
+- 전력공학 및 전기기기
 
-### Backend
-클라이언트에 필요한 기술을 테스트하고 검증할 수 있을 정도의 서버 구현 스킬을 가지고 있습니다.
-- python - flask/gunicorn
-- nodejs
-- celery 
-- rabbitmq / messageQ / redis
-- docker 
-- selenium
+### Engineer Information Processing (정보 처리 기사)
+정보시스템의 계획수립, 분석, 설계, 구현 업무를 수행할 수 있는 능력을 검증
+- 소프트웨어 설계,개발
+- 데이터 베이스 구축
+- 프로그래밍 언어 활용
 
-### Frontend
-주변 도움을 받으면 간단한 프로토타입을 만들 수 있을 정도의 스킬을 가지고 있습니다.
-- React
+### Engineer Electric Work ( 전기 공사 기사)
+건설 현장에서 전기와 관련된 공사 시행과정을 관리, 감독
+- 전기응용 및 공사재료
+- 전력공학
+-  회로이론 및 제어공학
 
-그 외 흔히 채용공고에 나오는 이런 '자격요건'들을 경험 해봤습니다.
-- 팀 : 기능조직 / 목적조직 / 스쿼드
-- 배포 : 정기배포(1주) / 배포자동화 / 단계적배포
-- 실험 : AB 테스팅 / deeplink / referrer / Firebase
-- 모니터링 : Fabric / Google Analytics / Firebase Analytics
-- 커뮤니케이션 : Slack
-- 이슈관리 : Github / Jira / Trello / Asana
-- CI/CD : TravisCI / Coveralls / Jenkins / SonarQube / Actions
-- 디자인 협업 : Zeplin / Figma
-- 버전관리 : Git / GitFlow
 
 ## 프로젝트 이력
 
 
-<img src='./images/toonies.png' width="80" />
+<img src="https://www.devicemart.co.kr/data/collect_img/kind_0/goods/large/1383971.jpg">
 
-### 투니스
-- 소개: 합법적으로, 공짜로, 누구나 웹툰을 볼 수 있도록 도와주는 서비스
-- 사이드 프로젝트로 혼자 서버/백엔드 개발
-- 기간 : 2019.01 ~ 2019.12
-- 매출 : 8,709,411원
+### 건전지 잔량 표시 설계
+- 소개: 배터리의 남은 잔량을 알 수있는 회로 제작 설계 프로젝트
+- 팀 프로젝트로 진행
+- 기간 : 2021.03 ~ 2021.06
 
-<img src='./images/ridibooks.png' width="80" />
+<http://openimage.interpark.com/goods_image_big/3/0/4/8/8154733048_l.jpg
 
-### 리디북스
-- 소개: 1등 전자책 서비스
-- 기간: 2018.09 ~ 2020.09
-- 프로젝트 : 리디페이퍼(3세대) 앱 개발, 웹툰/웹소설용 기능 추가, 유지보수
+### 건전지 충전 회로 설계
+- 소개: 건전지를 보호하고 충전하는 회로 제작 설계 프로젝트
+- 팀 프로젝트로 진행
+- 기간: 2021.09 ~ 2021.12
+- 기존에 있던 모듈을 사용하지 않고 소자를 조합하여 진행, 시간이 오래걸렷지만 더욱더 보람참 
 
-### 헤이딜러
+<https://w7.pngwing.com/pngs/384/121/png-transparent-kicker-compr-2%E2%84%A6-loudspeaker-amplifier-computer-hardware-gold-speaker-lens-printed-circuit-board-computer-hardware.png>
+
+### 오디오 엠프 설계 
 - 소개: 경매로 내차팔기 서비스
 - 기간: 2017.07 ~ 2018.09
 - 역할: 유지보수, 신규기능 개발
 - 관련기술: MVP, rxJava, databinding, lint, Travis, Fabric, SharedElement Transition, Canvas
 
-<img src="https://avatars0.githubusercontent.com/u/24453230?s=200&v=4" width="80" height="80"/>
+
 
 ### CALY
 - 소개: 일정기반 추천서비스 CALY
