@@ -19,7 +19,8 @@
 
 ---
 ## 회사경력 (상상)
-- [한국전력공사](https://dtd31o1ybbmk8.cloudfront.net/photos/5705a61ac07924c280b54c14cffbbb26/thumb.jpg)(2023 ~ ) 
+- [한국전력공사](https://dtd31o1ybbmk8.cloudfront.net/photos/5705a61ac07924c280b54c14cffbbb26/thumb.jpg)(2024 ~ )
+- 취업준비(2023~ 2024) 
 - 학부생(2018 ~ 2023)
 
 ## 학력
@@ -84,7 +85,7 @@
 ---
 
 [todo list 링크](https://trello.com/invite/b/gtIeUih7/2303423d7fea8cc7fdbf5baf221ef949/학습-및-발전)
-![](https://github.com/chuljin8/RESUME/raw/master/images/제목없음.png)
+![](https://github.com/chuljin8/RESUME/raw/master/images/제목 없음.png)
 
 ---
 
